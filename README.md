@@ -1,8 +1,8 @@
-## Hey World, I'm Pedro  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Hey World, I'm Yasmin  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-:computer: I'm Developer Front-End at Burger King Brasil.
+:computer: I'm Full Stack
 
-:house_with_garden: I’m from Rio de Janeiro, Brazil.
+:house_with_garden: I’m from Brasília, Brazil.
 
 :books: I’m currently learning everything.
 
