@@ -23,7 +23,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Python](https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg)
+  ![Python]([https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg](https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png))
   
   
 ----------------------------------------------------------------------------------
