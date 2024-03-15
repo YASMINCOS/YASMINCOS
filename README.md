@@ -6,7 +6,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2023 Goals: Create new projects.
+:outbox_tray: 2024 Goals: Create new projects.
 
 ## Connect with me
 
