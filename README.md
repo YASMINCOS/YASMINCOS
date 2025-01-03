@@ -1,12 +1,12 @@
 # Hey World, I'm Yasmin! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30">
 
-:computer: I'm a Mobile Developer
+:computer: I'm a Developer
 
 :house_with_garden: I’m from Brasília, Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2024 Goals: Create new projects.
+:outbox_tray: 2025 Goals: Create new projects.
 
 ## Connect with me
 
